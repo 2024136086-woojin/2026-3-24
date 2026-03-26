@@ -57,4 +57,10 @@
 
 문제 2, 다음 상황에서 사용할 적절한 명령어나 기능을 쓰시오.
 
-━━ web_version 폴더 구조를 확인하고 싶을 때    ［ ls web_version, /ls web_version ］
+━━ web_version 폴더 구조를 확인하고 싶을 때    ［ /ls web_version ］
+━━ script.js 파일에서 특정 함수를 찾고 싶을 때    ［ /grep ］
+━━ 클로드 코드 설치 상태를 점검하고 싶을 때    ［ /doctor ］
+━━ 작업한 대화 내용을 파일로 저장하고 싶을 때    ［ /export ］
+━━ 다크 모드로 변경하고 싶을 때    ［ /config ］
+━━ 자동 압축 기능을 끄고 싶을 때    ［ /config ］
+˙˙˙˙
